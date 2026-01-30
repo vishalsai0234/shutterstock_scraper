@@ -1,12 +1,12 @@
 # shutterstock_scraper
 To extract images from Online/ Shutterstock and download it in local directory.
 
-### 1. For install necessaries libraries:
+### 1. Install required packages in the terminal:
 ```bash
 pip install requests beautifulsoup4
 ```
 
-### 2. To run in terminal:
+### 2. Run the script in the terminal:
 
 ```bash
 python image_scraper.py
