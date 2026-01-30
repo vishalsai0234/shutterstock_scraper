@@ -1,5 +1,5 @@
 # shutterstock_scraper
-To extract images from Online/ Shutterstock and download it in local directory.
+To extract images from Online Source / Shutterstock and download it in local directory.
 
 ### 1. Install required packages in the terminal:
 ```bash
