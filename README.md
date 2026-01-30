@@ -7,8 +7,7 @@ pip install requests beautifulsoup4
 ```
 ```bash
 python image_scraper.py
-```
 or
-```
 python shutterscrapper.py
 ```
+
